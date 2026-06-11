@@ -47,6 +47,7 @@ Conversely, the "Unfreeze Layer 4" experiment failed completely. The standard le
 ## Setup & Requirements
 
 To run this project locally, first download the kitty dataset: https://drive.google.com/drive/folders/1KcCtqmh89UQrbv1BehyNLI8TZ2ZN9SYY?usp=drive_link
+
 Then ensure you have Python installed, and the following requirements: 
 
 torch,
